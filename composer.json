@@ -27,7 +27,7 @@
         "magento/module-checkout": "^100.2.4",
         "magento/module-cron": "^100.2.2",
         "magento/module-directory": "^100.2.3",
-        "magento/framework": "^103.0.2",
+        "magento/framework": "^101.0.4 || ^102.0.0 || ^103.0.2",
         "magento/module-quote": "^101.0.3",
         "magento/module-sales": "^101.0.3 || ^102.0.0",
         "magento/module-shipping": "*",
