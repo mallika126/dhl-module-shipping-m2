@@ -9,7 +9,7 @@
         "ext-json": "*",
         "ext-soap": "*",
         "ext-curl": "*",
-        "azuyalabs/yasumi": "^1.8.0",
+        "azuyalabs/yasumi": "*",
         "php-http/curl-client": "^1.7.0",
         "dhl/module-label-status-test": "*",
          "dhl/sdk-api-parcel-management": "*",
